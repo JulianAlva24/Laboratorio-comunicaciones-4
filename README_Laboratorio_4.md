@@ -1,8 +1,7 @@
 # Laboratorio 4 — Configuración de Switch/Router y RS485
 
 **Autores:** Daniel Felipe Pinilla Daza · Julian Sebastian Alvarado Monroy  
-**Documento base:** `Laboratorio_4.pdf`  
-**Asignatura/Contexto:** Redes y Comunicaciones Industriales
+**Asignatura/Contexto:**  Comunicaciones Industriales
 
 ---
 
@@ -103,9 +102,5 @@ Como componente aplicado, se presenta un **dashboard web** (Flask + Socket.IO + 
 - **RS485** es **robusto y costo‑efectivo**; con **DE/RE** bien gestionado, terminación y blindaje adecuados, ofrece BER muy baja.  
 - **CRC‑16** garantiza integridad; el **dashboard** aporta **observabilidad** y facilita diagnóstico.
 
----
 
-## Repositorio sugerido
-Si este laboratorio forma parte de una colección de tareas, se recomienda referenciar el repositorio:  
-**GitHub:** https://github.com/JulianAlva24/TAREAS_COMUNICACIONES.git
 
